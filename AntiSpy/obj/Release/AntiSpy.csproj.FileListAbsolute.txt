@@ -10,3 +10,16 @@ C:\Users\Alex\Documents\Visual Studio 2015\Projects\AntiSpy\AntiSpy\bin\Release\
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\AntiSpy\AntiSpy\obj\Release\AntiSpy.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\AntiSpy\AntiSpy\obj\Release\AntiSpy.dll
 C:\Users\Alex\Documents\Visual Studio 2015\Projects\AntiSpy\AntiSpy\obj\Release\AntiSpy.pdb
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\obj\Release\AntiSpy.csprojAssemblyReference.cache
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\obj\Release\AntiSpy.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\obj\Release\AntiSpy.pdb
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\bin\Release\AntiSpy.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\bin\Release\AntiSpy.pdb
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\bin\Release\Assembly-CSharp-firstpass.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\bin\Release\Assembly-CSharp.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\bin\Release\Rocket.API.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\bin\Release\Rocket.Core.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\bin\Release\Rocket.Unturned.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\bin\Release\UnityEngine.CoreModule.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\bin\Release\UnityEngine.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AntiSpy\AntiSpy\obj\Release\AntiSpy.csproj.CopyComplete
